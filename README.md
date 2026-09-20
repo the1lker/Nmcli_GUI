@@ -179,7 +179,3 @@ No `pip install` is required.
 The project is currently focused on providing a simple and reliable terminal interface for basic Wi-Fi management.
 
 More features and improvements may be added in the future.
-
-## License
-
-This project is licensed under the MIT License.
